@@ -2,6 +2,13 @@
 name = "rabbitizer"
 version = "0.1.0"
 edition = "2021"
+authors = ["Luke Street <luke@street.dev>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/encounter/rabbitizer-rs"
+readme = "README.md"
+description = """
+Bindings for rabbitizer MIPS disassembler
+"""
 
 [dependencies]
 cty = "0.2.2"
